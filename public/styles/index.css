@@ -14,7 +14,12 @@ b {
 }
 
 main {
+  min-height: 70vh;
   width: 80%;
   margin: 0 auto;
   padding: 10px;
+}
+
+h1 {
+  font-size: 36px !important;
 }
